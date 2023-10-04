@@ -1,0 +1,9 @@
+1eme
+- faire une fonction qui tire aléatoirement 5 numéros en 0 et 49 DONE
+- ensuite faire en sorte qu'il n'y ai pas de doublons	DONE 
+
+2eme fonction
+- faire une fonction qui récupère les valeurs saisies dans le formulaire
+
+3eme
+- comparer les valeurs tirées aléatoirement avec les données saisons pour voir combien y'a de résultats
